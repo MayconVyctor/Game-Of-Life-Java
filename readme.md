@@ -48,15 +48,17 @@ Each cell follows these rules every generation:
    git clone 
    cd Game-Of-Life-Java
 
-2- Compile the project (example using javac)
+2. Compile the project (example using javac)
+   ```bash
     javac src/*.java -d out
 
-3- Run the application:
-    java -cp out Main
+3. Run the application:
+     ```bash
+   java -cp out Main
 
 🖼️ Demo
 
-![img.png](img.png)
+![Game-Of-Life-java](imagenprojetoGOL.png)
 
 📚 Key Learnings & Goals
 Practice with core programming logic and algorithms
